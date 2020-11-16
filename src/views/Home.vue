@@ -14,7 +14,7 @@
               <i class="fas fa-circle logo"></i>
               Live
             </span>
-            Torrent </br>
+            Torrent <br />
             by <a href="https://ttttt.me/ITHard">ITHard</a>
           </h1>
         </v-flex>
